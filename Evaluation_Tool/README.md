@@ -1,13 +1,3 @@
-/* Copyright (c) 2017-2019, Texas Engineering Experiment Station (TEES), a
- * component of the Texas A&M University System.
- *
- * All rights reserved.
- *
- * The information and source code contained herein is the exclusive
- * property of TEES and may not be disclosed, examined or reproduced
- * in whole or in part without explicit written authorization from TEES.
- */
-
 This is a customized evaluation tool for the dataset presented in the paper:
 "Labeling of Math Objects in PDF Documents Based on the LaTeX Source Files: Basic Methods and Initial Results".
 
