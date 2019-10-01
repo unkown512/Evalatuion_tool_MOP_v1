@@ -1,6 +1,6 @@
 # Evalatuion_tool_MOP_v1
 
-This is a customized evaluation tool for the dataset presented in the paper: "Semi-Automatic LaTeX-Based Labeling of Mathematical Objects in PDF Documents: MOP Data Set". ACM DocEng 2019
+This is a customized evaluation tool for the dataset presented in the paper: ["Semi-Automatic LaTeX-Based Labeling of Mathematical Objects in PDF Documents: MOP Data Set"](http://delivery.acm.org/10.1145/3350000/3345426/a35-Beyette.pdf?ip=128.194.140.216&id=3345426&acc=OPEN&key=B63ACEF81C6334F5%2E79B51EFA2DE92FE8%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1569945207_420f51e88cd9ce39a6b459f662efb32e). ACM DocEng 2019
 
 Acknowledgment to the authors in ["Performance evaluation of mathematical formula identification"](https://www.researchgate.net/publication/239762668_Performance_Evaluation_of_Mathematical_Formula_Identification), who developed the original version of the evaluation tool for the Marmot dataset. Unlike Marmot tool, our dataset does not differentiate between Isolated mathematical objects (display) or Embedded mathematical objects (in-line). The reported results are adjusted accordingly.
 
