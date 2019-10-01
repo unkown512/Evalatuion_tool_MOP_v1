@@ -75,6 +75,9 @@ In total, the tool outputs 9 metrics:
 For each extracted MO (mathematical object), insert a new element row as follows:
 
 ![alt text](https://github.com/unkown512/Evalatuion_tool_MOP_v1/blob/master/MOP_prediction_example.PNG)
+ 
+  
+  Note that for each <MO></MO> row, it is optional to add additional rows such as <char BBox>. However, these are currently ignored.
   
 Follow the examples in the data/prediction directory. NOTE: You can add additional information such as the BBox for each character, size, and value without affecting the result.
   
