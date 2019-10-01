@@ -70,7 +70,7 @@ In total, the tool outputs 9 metrics:
 8. Split
 
 ### How to evaluate your performance?
- Create a XML file whose name schema consists of `<ID>_page_<#>.xml`, whose `ID` and `#` correspond to the PDF_File and Ground_Truth file name schema.
+ Create a XML file whose name schema consists of `<ID>_page_<#>.xml`, whose `ID` and `#` correspond to the PDF_File and Ground_Truth file name schema. See [MOP](https://www.kaggle.com/moptamu/moptamu) for more information.
   
 For each extracted MO (mathematical object), insert a new element row as follows:
 
