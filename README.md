@@ -1,6 +1,6 @@
 # Evalatuion_tool_MOP_v1
 
-This is a customized evaluation tool for the dataset presented in the paper: "Labeling of Math Objects in PDF Documents Based on the LaTeX Source Files: Basic Methods and Initial Results".
+This is a customized evaluation tool for the dataset presented in the paper: "Semi-Automatic LaTeX-Based Labeling of Mathematical Objects in PDF Documents: MOP Data Set".
 
 Acknowledgment to the authors in "Performance evaluation of mathematical formula identification", who developed the original version of the evaluation tool for the Marmot dataset. Unlike Marmot tool, our dataset does not differentiate between Isolated mathematical objects (display) or Embedded mathematical objects (in-line). The reported results are adjusted accordingly.
 
