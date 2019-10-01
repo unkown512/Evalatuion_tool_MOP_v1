@@ -4,12 +4,8 @@ This is a customized evaluation tool for the dataset presented in the paper: "La
 
 Acknowledgment to the authors in "Performance evaluation of mathematical formula identification", who developed the original version of the evaluation tool for the Marmot dataset. Unlike Marmot tool, our dataset does not differentiate between Isolated mathematical objects (display) or Embedded mathematical objects (in-line). The reported results are adjusted accordingly.
 
-To run the evaluation tool, see the file 'evaluate.py'. The 'data' folder gives an example of how the data should be organized. In 'data/pdf', individual pdf pages are saved. In 'data/ground_truth', ground truth files in json format are saved. In 'data/prediction', predictions files in xml format are saved.
 
-This tool will report the following metrics: correct, miss, false, partial, expanded, partial and expanded, merged, split
-
-
-# TESTING ---
+# HOW TO USE
 Currently, the evaluation tool is a customized version of the tool presented in the paper: "Performance Evaluation of Mathematical Formula Identification" by Xiaoyan Lin, Liangcai Gao, Zhi Tang, Xiaofan Lin, and Xuan Hu. We are currently developing a new tool that will also test the performance of LaTeX generation and subject prediction.
   
 
