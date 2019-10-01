@@ -4,13 +4,15 @@ This is a customized evaluation tool for the dataset presented in the paper: ["S
 
 Acknowledgment to the authors in ["Performance evaluation of mathematical formula identification"](https://www.researchgate.net/publication/239762668_Performance_Evaluation_of_Mathematical_Formula_Identification), who developed the original version of the evaluation tool for the Marmot dataset. Unlike Marmot tool, our dataset does not differentiate between Isolated mathematical objects (display) or Embedded mathematical objects (in-line). The reported results are adjusted accordingly.
 
-
+# NOTE
+ We are currently developing a new tool that will also test the performance of LaTeX generation and subject prediction.
 # HOW TO USE
-Currently, the evaluation tool is a customized version of the tool presented in the paper: "Performance Evaluation of Mathematical Formula Identification" by Xiaoyan Lin, Liangcai Gao, Zhi Tang, Xiaofan Lin, and Xuan Hu. We are currently developing a new tool that will also test the performance of LaTeX generation and subject prediction.
+
+1. Download the project with `git clone https://github.com/unkown512/Evalatuion_tool_MOP_v1.git`
+2. From the root directory run `cd Evaluation_Tool`
+3. To insure the project builds correctly, run `python evaluate.py` This should output the below information:
   
-
-To run the the tool, enter the command `python evaluate.py` This should output the below information:
-
+  
 `cor 0
 mis 0
 fal 1
