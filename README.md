@@ -60,14 +60,14 @@ MO Mis rate 0.333333333333
 
 In total, the tool outputs 9 metrics:
 
-- 1) Correct
-- 2) Miss
-- 3) False
-- 4) Partial
-- 5) Expanded
-- 6) Partial and Expanded
-- 7) Merged
-- 8) Split
+1. Correct
+2. Miss
+3. False
+4. Partial
+5. Expanded
+6. Partial and Expanded
+7. Merged
+8. Split
 
 ### How to evaluate your performance?
  Create a XML file whose name schema consists of `<ID>_page_<#>.xml`, whose `ID` and `#` correspond to the PDF_File and Ground_Truth file name schema.
