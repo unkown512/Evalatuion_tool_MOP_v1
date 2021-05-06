@@ -6,6 +6,8 @@ Acknowledgment to the authors in ["Performance evaluation of mathematical formul
 
 # NOTE
  We are currently developing a new tool that will also test the performance of LaTeX generation and subject prediction.
+### FOR PDF OFFSETS
+Depending on what tool you use, you may have to subtract some offset from the cordinates. 
 # HOW TO USE
 
 1. Download the project with `git clone https://github.com/unkown512/Evalatuion_tool_MOP_v1.git`
